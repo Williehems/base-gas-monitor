@@ -1,0 +1,4 @@
+node_modules/
+gas_prices.csv
+*.log
+.env
