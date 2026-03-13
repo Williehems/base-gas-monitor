@@ -1,0 +1,14 @@
+{
+  "name": "base-gas-monitor",
+  "version": "1.0.0",
+  "description": "Base L2 gas price monitoring bot — logs to CSV with live ETH price",
+  "main": "gas-monitor.js",
+  "scripts": {
+    "start": "node gas-monitor.js"
+  },
+  "keywords": ["base", "ethereum", "gas", "monitor", "l2"],
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.0.0"
+  }
+}
